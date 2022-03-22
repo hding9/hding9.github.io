@@ -88,7 +88,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: Hao's Blog # your blog must have a name for it to show up in the nav bar
-blog_description: It's all start from a NAS.
+blog_description: It's all started from a NAS.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -146,6 +146,9 @@ exclude:
   - _pages/publications.md
   - _pages/teaching.md
   - _posts/examples
+  - _news/announcement_1.md     # exclude them here for future reference
+  - _news/announcement_2.md
+  - _news/announcement_3.md
 keep_files:
   - CNAME
   - .nojekyll

@@ -30,6 +30,10 @@ It now should behave as the copy shortcut.
 - `ctrl + j` and `ctrl + k` shift focus between editors in an editor group and terminal windows in the terminal.
 - `ctrl + h` and `ctrl + l` shift focus between editor groups including the terminal.
 
-![settings screenshot](../assets/img/keybindings.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/keybindings.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Referred from [here](https://stackoverflow.com/a/71519133)

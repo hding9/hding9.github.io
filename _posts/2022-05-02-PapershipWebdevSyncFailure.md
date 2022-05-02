@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Linux Control Sequencees
-date: 2022-04-30 14:58:45
+title: How to Solve Papership Webdev Sync Failure
+date: 2022-05-02 13:45:10
 description:
 tags: ['Papership', 'Webdev', 'Zotero']
 categories: Guide

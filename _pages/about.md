@@ -9,7 +9,7 @@ profile:
   image: carrot.jpg
   image_cicular: true # crops the image to make it circular
   address: >
-    <p>Chicago, IL, US</p>
+    <p style='text-align: right;'>Chicago, IL, US</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

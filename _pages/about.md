@@ -6,8 +6,8 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: carrot.jpg
+  image_circular: true # crops the image to make it circular
   address: >
     <p style='text-align: right;'>Chicago, IL, US</p>
 

@@ -3,8 +3,8 @@ layout: post
 title: Install Python and Virtualenv on MacOS
 date: 2022-03-21 01:01:15
 description:
-tags: ['MacOS', 'Python', 'Virtualenv', 'Jupyter Notebook']
-categories: Tips
+tags: ['macOS', 'python', 'virtualenv', 'jupyter notebook']
+categories: tips
 ---
 To run jupyter notebook in virtual environment, one approach is to have one global jupyter notebook installation, but to point to different kernels to run as the backend.
 

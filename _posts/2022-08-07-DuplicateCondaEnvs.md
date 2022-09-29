@@ -4,7 +4,8 @@ title: Duplicate Conda Envs in Spaceship Prompt
 date: 2022-08-07 11:49:43
 decription:
 tags: ['conda environment', 'spaceship', 'oh-my-zsh']
-categories: Fix
+categories: fix
+---
 
 Sometimes new installed `conda` displays duplicate environment names in the [spaceship prompt](https://spaceship-prompt.sh/).
 

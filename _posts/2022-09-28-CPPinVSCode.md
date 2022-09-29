@@ -3,8 +3,9 @@ layout: post
 title: Change cpp Building Path in VSCode
 date: 2022-09-28 23:47:07
 decription:
-tags: ['VSCode', 'cpp', 'compile', 'Windows']
-categories: Tips
+tags: ['vscode', 'cpp', 'compile', 'windows']
+categories: tips
+---
 
 When build and run c++ program in VSCode on Window PC, all object files, executables, link files and debug files and generated in project root folder,
 which is very disorgnized. We can edit `.vscode/task.json` to make the compiled file to be saved in disired folders.

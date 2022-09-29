@@ -4,7 +4,7 @@ title: Linux Control Sequencees
 date: 2022-04-30 14:58:45
 description:
 tags: ['terminal', 'linux', 'ctrl']
-categories: Tips
+categories: tips
 ---
 
 Here are some common linux control sequences that might be handy and useful for you.

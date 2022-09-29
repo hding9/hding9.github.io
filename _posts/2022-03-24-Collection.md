@@ -4,7 +4,7 @@ title: Some tools, packages and references that I found useful
 date: 2022-03-23 11:18:23
 description:
 tags: ['tools', 'packages', 'references']
-categories: Tips
+categories: tips
 ---
 
 [Matplotlib colormaps](https://matplotlib.org/3.5.1/tutorials/colors/colormaps.html): Matplotlib official tutorials about colormaps.

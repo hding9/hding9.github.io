@@ -3,8 +3,8 @@ layout: post
 title: Install Python and Virtualenv on MacOS
 date: 2022-03-20 23:27:43
 description:
-tags: ['MacOS', 'Python', 'Virtualenv', 'Virtualenvwrapper']
-categories: Guide
+tags: ['macos', 'python', 'virtualenv', 'virtualenvwrapper']
+categories: guide
 ---
 
 #### Install

@@ -3,8 +3,8 @@ layout: post
 title: Disable repeating keys on MacOS
 date: 2022-03-20 23:18:51
 description:
-tags: ['MacOS', 'VSCode', 'Repeating Keys']
-categories: Guide
+tags: ['macos', 'vscode', 'repeating keys']
+categories: guide
 ---
 
 When typing in some applications on MacOS, pressing and holding a key for example ```a``` gives you ```à á â ä æ ã å ā```. That is 

@@ -10,6 +10,8 @@ categories: tips
 When build and run c++ program in VSCode on Window PC, all object files, executables, link files and debug files and generated in project root folder,
 which is very disorgnized. We can edit `.vscode/task.json` to make the compiled file to be saved in disired folders.
 
+By the way, in order to use cl.exe (provided by visual studio) in vscode, vscode has to be launched from Visual Studio Developer Command Prompt.
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/disorgnizedfiles.png" class="img-fluid rounded z-depth-1" %}

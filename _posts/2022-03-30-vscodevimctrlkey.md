@@ -3,7 +3,7 @@ layout: post
 title: VSCode Keymaps with VIM plugin
 date: 2022-04-12 18:47:34
 description:
-tags: ['vim', 'vscode', 'ctrl', 'keybindings', 'keymaps']
+tags: ['vim', 'VSCode', 'ctrl', 'keybindings', 'keymaps']
 categories: Tips
 ---
 

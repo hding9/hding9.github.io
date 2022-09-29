@@ -174,9 +174,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _pages/cv.md
   - _pages/dropdown.md
   - _pages/projects.md
   - _pages/publications.md
+  - _pages/repositories.md
   - _pages/teaching.md
   - _posts/examples
   - _news/announcement_1.md     # exclude them here for future reference
@@ -233,7 +235,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
+display_tags: ['VSCode', 'Virtualenv', 'Python'] # this tags will be dispalyed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

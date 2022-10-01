@@ -3,8 +3,8 @@ layout: post
 title: External Access Your NAS
 date: 2022-03-21 01:01:15
 description:
-tags: ['NAS', 'DDNS', 'frp', 'openvpn']
-categories: Tips
+tags: ['nas', 'ddns', 'frp', 'openvpn']
+categories: tips
 ---
 
 <!-- I heard "NAS" a long time ago, but I used to think it's just not something that I really need. 

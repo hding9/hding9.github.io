@@ -3,8 +3,8 @@ layout: post
 title: Broken Python Reference After Brew Upgrade
 date: 2022-03-21 00:57:53
 description:
-tags: ['MacOS', 'Python', 'Virtualenv', 'Homebrew']
-categories: Tips
+tags: ['macos', 'python', 'virtualenv', 'homebrew']
+categories: tips
 ---
 
 It seems the references are broken. It shows like this:

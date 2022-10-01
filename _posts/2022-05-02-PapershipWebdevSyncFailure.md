@@ -3,8 +3,8 @@ layout: post
 title: How to Solve Papership Webdev Sync Failure
 date: 2022-05-02 13:45:10
 description:
-tags: ['Papership', 'Webdev', 'Zotero']
-categories: Guide
+tags: ['papership', 'webdev', 'zotero']
+categories: guide
 ---
 
 Currently, I am using Papership to read and make note on papers collected and managed by Zotero.

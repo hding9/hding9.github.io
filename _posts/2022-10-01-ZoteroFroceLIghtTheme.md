@@ -28,3 +28,5 @@ We can add environment variable `GTK_THEME=Default` in `zotero.desktop` when sta
 ```bash
 Exec=env GTK_THEME=Default bash -c "$(dirname $(realpath $(echo %k | sed -e 's/^file:\/\///')))/zotero -url %U"
 ```
+
+Referred from [here](https://github.com/zotero/zotero/issues/1999#issuecomment-1225821276).
